@@ -1,19 +1,42 @@
-### Hi there 👋, my name is Sun Mingzhong
-#### I'm a programming novice just for fun
-![I'm a programming novice just for fun](https://camo.githubusercontent.com/c31248d607b3c8fe3175a3b6ca8d8f297ec4e2ce91daefa658ab2c34982890ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f636f64696e672e676966)
-
-I'm a graduate student from China and I'm learning programming.
-**We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.**
-
-<div align="center">
-    <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SunBurst-mz&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
-
-[![SunBurst-mz's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunBurst-mz)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Skills: C / C++ / Python / Matlab
+<h1 align="center">Hi <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/Hi.gif?raw=true" width="30"> , I'm Mingzhong.Sun</h1>
+<h3 align="center">A rookie with a dream</h3>
+ 
+
+I'm a Graduate students from China 🇨🇳
+
+<h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27">
+  </a>
+</h1>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m currently working on Mechince learning <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/pilipala.gif?raw=true" width="30"><img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/pilipala.gif?raw=true" width="30">
+- 🌱 I’m currently learning **C++** <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/hmm.gif?raw=true" width="30">
+- 💌 How to reach me **sunmingzhong1999@gmail.com**
+
+<details>
+<summary>:trophy: Github Stats</summary>
+<img src="https://github-profile-trophy.vercel.app/?username=SunBurst-mz">
+</details>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+
+## 🧰 My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,matlab,latex,ps,twitter,github,e&theme=light)](https://skillicons.dev)
+
+|[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
+|<p><img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=SunBurst-mz"></p>|<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SunBurst-mz&" alt="SunBurst-mz" /></p>|
+|---|---|
+
+ <a>❤️ ***love is the best teacher for everything. It is far better than responsibility.***</a>
+
+<h3 align="center"><img align="center" width="600" src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/github.png?raw=true"></h3>
 
