@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/Hi.gif?raw=true" width="30"> , I'm Mingzhong.Sun</h1>
+<h1 align="center">Hi <img src="https://github.com/xJoyLu/xJoyLu/blob/main/assets/Hi.gif?raw=true" width="30"> , I'm Mingchung.Sun</h1>
 <h3 align="center">A rookie with a dream</h3>
  
 
