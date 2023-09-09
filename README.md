@@ -29,7 +29,7 @@ I'm a Graduate students from China 🇨🇳
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,matlab,latex,ps,twitter,github,e&theme=light)](https://skillicons.dev)
 
-|[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+|[![SunBurst-mz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SunBurst-mz&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
